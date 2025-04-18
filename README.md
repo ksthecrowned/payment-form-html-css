@@ -18,6 +18,4 @@ Pour activer le changement de thème sur l’interface, il suffit d’ajouter un
 
 ## 🖼️ Aperçu
 
-```html
 <img src="preview.png" alt="Aperçu du changement de thème" width="500" /> 
-```
